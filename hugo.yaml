@@ -1,7 +1,7 @@
 baseURL: "https://yashBellary.netlify.app"
 languageCode: "en-us"
 title: "Yash Bellary"
-theme: hugo-profile
+theme: my-site
 
 outputs:
   home:
