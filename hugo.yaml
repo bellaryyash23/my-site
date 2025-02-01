@@ -155,10 +155,10 @@ params:
     enable: true
     title: "About Me"
     image: "/copy.webp"
-    content: "I’m Yash Bellary, a Master’s student in Data Science, Analytics, and Engineering at Arizona State University. With a background in electronics and telecommunication engineering, I’m deeply passionate about AI, data science, and machine learning. My goal is to leverage these technologies to create innovative solutions that address societal challenges and drive meaningful change.
+    content: "I’m Yash Bellary, a **Master’s student in Data Science, Analytics, and Engineering** at **Arizona State University**. With a background in electronics and telecommunication engineering, I’m deeply passionate about AI, data science, and machine learning. My goal is to leverage these technologies to create innovative solutions that address societal challenges and drive meaningful change.
 
 
-Currently, I’m exploring the exciting potential of Generative AI and Large Language Models (LLMs) to transform industries and solve real-world problems. My skill set includes machine learning, deep learning, data analysis, neural networks, Python, and statistical modeling—all of which I use to develop impactful, data-driven solutions.
+Currently, I’m exploring the exciting potential of **Generative AI** and **Large Language Models (LLMs)** to transform industries and solve real-world problems. My skill set includes machine learning, deep learning, data analysis, neural networks, Python, and statistical modeling—all of which I use to develop impactful, data-driven solutions.
 
 
 I’m committed to constantly learning and collaborating with others to push the boundaries of what’s possible in AI and data science. My work is centered around creating solutions that make a positive difference and contribute to the greater good."
@@ -191,7 +191,7 @@ I’m committed to constantly learning and collaborating with others to push the
             - Actively contributing to AI and data-driven research, including exploring Generative AI and Large Language Models (LLMs).
           
             Teaching Assitance
-            - Serving as a Teaching Assistant in the Physics Department at Arizona State University, where I support 200+ students in their learning and assist with course-related tasks.
+            - Serving as a **Teaching Assistant** in the Physics Department at Arizona State University, where I support 200+ students in their learning and assist with course-related tasks.
 
       - title: "Bachelor of Technology in Electronics and Telecommunication Engineering"
         school:
@@ -200,7 +200,7 @@ I’m committed to constantly learning and collaborating with others to push the
         date: "2020 - 2024"
         GPA: "3.65 out of 4.0"
         content: |-
-          I Published two papers in Scopus-indexed journals, focusing on the application of Machine Learning technologies in Healthcare.
+          I Published two papers in Scopus-indexed journals, focusing on the application of **Machine Learning technologies in Healthcare.**
           - [Ensemble Stacking Classifier Model for Diabetes Prediction](http://doi.org/10.11591/ijict.v13i3.pp499-508)
           - [Computer-Aided Diagnostic System for Diabetic Retinopathy Detection](https://ijisae.org/index.php/IJISAE/article/view/6373)
 
@@ -218,23 +218,23 @@ I’m committed to constantly learning and collaborating with others to push the
     # title: "Custom Name"
     items:
       - title: Programming Languages
-        content: Proficient in Java, Python, HTML/CSS, MATLAB, and JavaScript. Experienced in solving 500+ DSA problems, building scalable applications, and developing machine learning models. 
+        content: Proficient in **Java, Python, HTML/CSS, MATLAB,** and **JavaScript.** Experienced in solving 500+ DSA problems, building scalable applications, and developing machine learning models. 
         # url: https://example.com
         # image: /images/achievment.jpg
       - title: ML Libraries
-        content: Proficient in Pandas, NumPy, and Sci-kit Learn for data analysis, and TensorFlow, PyTorch, and Keras for deep learning. Experienced in visualizations with Matplotlib, Plotly, and D3.js, and image processing with OpenCV.
+        content: Proficient in **Pandas, NumPy, and Sci-kit Learn** for data analysis, and **TensorFlow, PyTorch,** and **Keras** for deep learning. Experienced in visualizations with **Matplotlib, Plotly,** and **D3.js,** and image processing with **OpenCV.**
         # image: /images/achievment.jpg
       - title: Technical Expertise
-        content: Skilled in data analysis and visualization using tools like Pandas and Matplotlib, with experience in data engineering and machine learning/AI. Proficient in web/API development and database management, building efficient systems and applications.
+        content: Skilled in data analysis and visualization using tools like **Pandas** and **Matplotlib,** with experience in data engineering and machine learning/AI. Proficient in web/API development and database management, building efficient systems and applications.
         # url: ""
         # image: /images/achievment.jpg
       - title: Web Frameworks
-        content: Proficient in Node.js, Express.js, and React for building scalable web applications, with experience in Flask and Django for back-end development. Skilled in Next.js for server-side rendering and optimized React applications.
+        content: Proficient in **Node.js, Express.js,** and **React** for building scalable web applications, with experience in **Flask** and **Django** for back-end development. Skilled in Next.js for server-side rendering and optimized React applications.
       - title: Database Systems
-        content: Proficient in SQL for relational databases and MongoDB for NoSQL solutions. Experienced with Apache Spark for large-scale data processing and distributed computing.
+        content: Proficient in **SQL** for relational databases and **MongoDB** for NoSQL solutions. Experienced with **Apache Spark** for large-scale data processing and distributed computing.
         # url: https://example.com
       - title: Development Tools
-        content: Experienced with Git/GitHub for version control, and IDEs like VS Code, PyCharm, IntelliJ, and Eclipse for coding. Proficient in Postman for API testing, and skilled in Power BI, Tableau, and Excel for data analysis and visualization.
+        content: Experienced with **Git/GitHub** for version control, and IDEs like **VS Code, PyCharm, IntelliJ,** and **Eclipse** for coding. Proficient in **Postman** for API testing, and skilled in **Power BI, Tableau,** and **Excel** for data analysis and visualization.
         # url: https://example.com
 
   # projects
@@ -243,11 +243,11 @@ I’m committed to constantly learning and collaborating with others to push the
     # title: "Custom Name"
     items:
       - title: Nano-GPT
-        content: "Built a simplified GPT model using PyTorch, leveraging principles from the “Attention is All You Need” paper by Google Research.
+        content: "Built a simplified GPT model using PyTorch, leveraging principles from the **“Attention is All You Need”** paper by Google Research.
         
-        Designed and trained 10M parameter 6-layer transformer with 6 heads per layer, 384 feature channels and context size of 256 characters.
+        Designed and trained **10M** parameter 6-layer transformer with 6 heads per layer, 384 feature channels and context size of 256 characters.
         
-        Achieved validation loss of 1.46, showcasing expertise in training and optimizing transformer architectures for language generation tasks." 
+        Achieved validation loss of **1.46**, showcasing expertise in training and optimizing transformer architectures for language generation tasks." 
         # image: /images/projects/profile.png
         badges:
           - "NLP"
@@ -258,7 +258,7 @@ I’m committed to constantly learning and collaborating with others to push the
             url: https://github.com/bellaryyash23/nanoGPT
        
       - title: Prisoner's Dilemma Game Theory Visualization 
-        content: "Built an interactive storytelling visualization using D3.js and Scrollama.js to explore strategic decision-making in game theory.
+        content: "Built an interactive storytelling visualization using **D3.js** and **Scrollama.js** to explore strategic decision-making in game theory.
         
         Analyzed a 100-round iterative game dataset, linking player strategies to key psychological and theoretical insights." 
         # image: /images/projects/converter.jpg
@@ -276,8 +276,8 @@ I’m committed to constantly learning and collaborating with others to push the
 
       - title: Blog Website
         content: |
-            Created a full-stack blog website with React and Next.js enabling the admin to manage blog posts and users to interact through comments.
-            Applied HTML, CSS, for UI; Node.js for package management, SQL for managing the posts database.
+            Created a full-stack blog website with **React** and **Next.js** enabling the admin to manage blog posts and users to interact through comments.
+            Applied **HTML, CSS, React** for UI; **Node.js** for package management, **SQL** for managing the posts database.
 
         badges:
           - "Full-Stack Web Development"
@@ -300,8 +300,8 @@ I’m committed to constantly learning and collaborating with others to push the
           url: "http://doi.org/10.11591/ijict.v13i3.pp499-508"
         date: "December 2024"
         content: |-
-            - Developed a robust diabetes prediction model using an ensemble stacking algorithm, combining multiple machine learning techniques to enhance accuracy.
-            - Improved model performance by 15% through the integration of advanced ensemble learning methods using Sci-kit Learn.
+            - Developed a robust diabetes prediction model using an **ensemble stacking algorithm**, combining multiple machine learning techniques to enhance accuracy.
+            - Improved model performance by **15%** through the integration of advanced ensemble learning methods using Sci-kit Learn.
             - Created a reliable tool for early diabetes diagnosis, leveraging medical data analysis to provide actionable insights for healthcare professionals.
         featuredLink:
           enable: true
@@ -314,9 +314,9 @@ I’m committed to constantly learning and collaborating with others to push the
           url: "https://ijisae.org/index.php/IJISAE/article/view/6373"
         date: "July 2024"
         content: |-
-          - Created a diagnostic system using Deep Neural Network and Ensemble learning to accurately detect and classify Diabetic Retinopathy.
-          - Achieved an 87% accuracy in diagnosis, providing enhanced diagnostic accuracy and reliability, aiding in better clinical decision making through big data wrangling, data visualization and retinal image feature analysis. 
-          - Employed Ensemble Learning, Deep Neural Networks and Computer Vision for advanced retinal image data analysis utilizing Pandas, NumPy, Apache Spark, OpenCV and MATLAB.         
+          - Created a diagnostic system using **Mobile-Net**, **Efficient-Net** Deep Neural Network and Ensemble learning to accurately detect and classify Diabetic Retinopathy.
+          - Achieved an **87% accuracy** in diagnosis, providing enhanced diagnostic accuracy and reliability, aiding in better clinical decision making through big data wrangling, data visualization and retinal image feature analysis. 
+          - Employed **Ensemble Learning, Deep Neural Networks** and **Computer Vision** for advanced retinal image data analysis utilizing **Pandas, NumPy, Apache Spark, OpenCV** and **MATLAB.**         
         featuredLink:
           enable: true
           name: "View Publication"
@@ -337,9 +337,9 @@ I’m committed to constantly learning and collaborating with others to push the
           name: "View the project"
           url: "https://baoiam.com/"
         content: |
-          - Developed the backend of the Baoiam website, optimizing database operations and reducing page load-time by 25%. 
-          - Achieved a seamless user experience by designing efficient API calls using Postman, and increasing database operation speed. 
-          - Utilized Node.js, Express.js, MongoDB, and REST API architecture to manage user data and blog data. 
+          - Developed the backend of the Baoiam website, **optimizing database operations** and reducing page load-time by **25%**. 
+          - Achieved a seamless user experience by designing **efficient API calls** using Postman, and increasing database operation speed. 
+          - Utilized **Node.js, Express.js, MongoDB,** and **REST API** architecture to manage user data and blog data. 
 
       - job: "Teaching Assistant "
         company: "ASU"
@@ -347,7 +347,7 @@ I’m committed to constantly learning and collaborating with others to push the
         date: "Sep 2024 - Present"
         content: |
           - Conducted physics experiments, clarifying complex concepts through effective guidance and demonstrations. 
-          - Performed quality assurance of online physics labs for 500+ students, collaborating with developers to ensure simulations accuracy. 
+          - Performed quality assurance of online physics labs for **500+ students**, collaborating with developers to ensure simulations accuracy. 
 
       - job: "Research Assistant"
         company: "PCCOE"
@@ -355,7 +355,7 @@ I’m committed to constantly learning and collaborating with others to push the
         date: "Aug 2022 - May 2023"
         content: |
           - Utilized problem-solving skills to analyze healthcare data with Python, Pandas, NumPy, and Scikit-Learn. 
-          - Implemented regression, SVM, KNN, RF, DT, and ensemble stacking algorithms to enhance predictive accuracy. 
+          - Implemented regression, **SVM, KNN, RF, DT,** and **ensemble stacking algorithms** to enhance predictive accuracy. 
 
   #Contact
   contact:
