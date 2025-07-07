@@ -139,7 +139,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1AxO6Kbp2e9mq_9YpdGPge6Y4HinmMBpV/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1LZ3uNFTNsEeQRFS0TgNqzYO0NUd3fP5k/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -172,7 +172,14 @@ I’m committed to constantly learning and collaborating with others to push the
         - "LlamaIndex"
         - "LangChain"
         - "Sci-kit Learn"
-        
+        - "Docker" 
+        - "Kubernetes" 
+        - "Amazon Web Services (AWS) SageMaker, EC2" 
+        - "NVIDIA DGX" 
+        - "NVIDIA Omniverse" 
+        - "NVIDIA NeMo" 
+        - "NVIDIA Agentic Toolkit" 
+        - "NVIDIA GCP"
 
   # Education
   education:
@@ -185,7 +192,7 @@ I’m committed to constantly learning and collaborating with others to push the
           name: "Arizona State University"
           url: "https://www.asu.edu/"
         date: "2024 - 2026"
-        GPA: "3.67 out of 4.0"
+        GPA: "3.89 out of 4.0"
         content: |-
             - Pursuing coursework in Data Mining, Machine Learning, and AI, with hands-on experience using tools like PyTorch, TensorFlow, and Apache Spark.
             - Actively contributing to AI and data-driven research, including exploring Generative AI and Large Language Models (LLMs).
@@ -234,7 +241,7 @@ I’m committed to constantly learning and collaborating with others to push the
         content: Proficient in SQL for relational databases and MongoDB for NoSQL solutions. Experienced with Apache Spark for large-scale data processing and distributed computing.
         # url: https://example.com
       - title: Development Tools
-        content: Experienced with Git/GitHub for version control, and IDEs like VS Code, PyCharm, IntelliJ, and Eclipse for coding. Proficient in Postman for API testing, and skilled in Power BI, Tableau, and Excel for data analysis and visualization.
+        content: Experienced with Git/GitHub for version control, NVIDIA DGX, NVIDIA Omniverse, NVIDIA NeMo, NVIDIA Agentic Toolkit, GCP and IDEs like VS Code, PyCharm, IntelliJ, and Eclipse for coding. Proficient in Postman for API testing, and skilled in Power BI, Tableau, and Excel for data analysis and visualization.
         # url: https://example.com
 
   # projects
@@ -242,6 +249,25 @@ I’m committed to constantly learning and collaborating with others to push the
     enable: true
     # title: "Custom Name"
     items:
+      - title: Cricket Chatbot 
+        content: "Built a domain-specific Retrieval-Augmented Generation (RAG) chatbot using LangChain and OpenAI’s API to provide real-time, context-aware responses from 23 curated cricket sources.
+        
+        Engineered real-time data pipelines to fetch and preprocess live match statistics; integrated DataStax Astra DB as a vector store for semantic retrieval.
+        
+        Enhanced chatbot performance through prompt tuning and embedding optimization tailored to cricket-specific queries." 
+        # image: /images/projects/profile.png
+        badges:
+          - "NLP"
+          - "PyTorch"
+          - "GPT"
+          - "RAG"
+          - "VectorDB"
+          - "Next.JS"
+          - "OpenAI API"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/bellaryyash23/nanoGPT
+    
       - title: Nano-GPT
         content: "Built a simplified GPT model using PyTorch, leveraging principles from the **“Attention is All You Need”** paper by Google Research.
         
@@ -328,6 +354,16 @@ I’m committed to constantly learning and collaborating with others to push the
     enable: true
     # title: "Custom Name"
     items:
+      - job: "AI Engineering Intern"
+        company: "TD SYNNEX Corporation"
+        companyUrl: "https://www.tdsynnex.com/na/us/"
+        date: "May 2025 - Present"
+        content: |
+          - Built an agentic AI system using the NVIDIA Agentic Toolkit, NIM microservices, and LangChain to automate real-time alerts and situational reporting in high-risk zones. 
+          - Designed a modular workflow combining LLMs, VLMs, and RAG pipelines with multimodal inputs (sensor, satellite, video) for intelligent, context-aware decision-making.
+          - Used NVIDIA NeMo and Omniverse to develop adaptive AI agents and simulate scenarios with AI-driven digital twins.
+          - Deployed on NVIDIA DGX with H100 GPUs, Docker, and Kubernetes for scalable, low-latency inference. Integrated with Snowflake for dynamic data retrieval.
+          
       - job: "Website Developer Intern"
         company: "Baoiam Innovations"
         companyUrl: "https://baoiam.com/"
@@ -344,7 +380,7 @@ I’m committed to constantly learning and collaborating with others to push the
       - job: "Teaching Assistant "
         company: "ASU"
         companyUrl: "https://www.asu.edu/"
-        date: "Sep 2024 - Present"
+        date: "Sep 2024 - May 2025"
         content: |
           - Conducted physics experiments, clarifying complex concepts through effective guidance and demonstrations. 
           - Performed quality assurance of online physics labs for **500+ students**, collaborating with developers to ensure simulations accuracy. 
